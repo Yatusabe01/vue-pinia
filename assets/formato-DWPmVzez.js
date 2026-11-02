@@ -1,0 +1,1 @@
+var e=new Intl.NumberFormat(`es-MX`,{style:`currency`,currency:`MXN`});function t(t){return e.format(t)}export{t};
